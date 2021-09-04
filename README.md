@@ -3,7 +3,7 @@
 ### Date created: Wed, 1 Sep 2021
 Include the date you created this project and README file.
 
-### Project Title
+### Project Title: Version Control Project
 Replace the Project Title
 
 ### Description
