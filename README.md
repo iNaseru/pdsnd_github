@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Project Title: Version Control Project
 Replace the Project Title
 
-### Description
+### Description: Simulate the workflow used in industry on the bike share code that I have completed for Udacity Nanodegree Program
 Describe what your project is about and what it does
 
 ### Files used
