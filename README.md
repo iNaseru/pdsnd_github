@@ -16,4 +16,6 @@ Describe what your project is about and what it does
 	washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+    https://www.pluralsight.com/guides/how-to-use-gitignore-file
+    https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file
+    https://stackoverflow.com/questions/4308610/git-how-to-ignore-certain-files-in-git
